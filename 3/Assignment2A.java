@@ -3,8 +3,9 @@ import java.util.Scanner;
 //How much time has passed (in seconds)?: 3661
 //Now converting...
 //3661 seconds is 1 hour(s), 1 minute(s), and 1 second(s).
+//This code was Written by Erik
 
-public class Lab3A {
+public class Assignment2A {
     public static void main(String[] args){
         Scanner sc = new Scanner (System.in);
 
